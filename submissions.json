@@ -1,4 +1,21 @@
 {
+  "CF116718204": {
+    "contest_id": 1360,
+    "language": "GNU C++14",
+    "path": "codeforces\\1360\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Honest Coach",
+    "problem_url": "https://codeforces.com/contest/1360/problem/B",
+    "submission_id": "CF116718204",
+    "submission_url": "https://codeforces.com/contest/1360/submission/116718204",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "May/20/2021 13:09"
+  },
   "CF116822233": {
     "contest_id": 1527,
     "language": "GNU C++14",
